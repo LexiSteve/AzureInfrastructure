@@ -6,7 +6,7 @@
             "value": "uksouth"
         },
         "NamePrefix": {
-            "value": "shp-avd"
+            "value": "sh-ip-avd"
         },
         "NumberOfVms": {
             "value": 1
