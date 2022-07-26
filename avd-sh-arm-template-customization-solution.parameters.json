@@ -12,7 +12,7 @@
             "value": 1
         },
         "ScriptUri": {
-            "value": "https://carbenefitsolutions.visualstudio.com/AzureInfrastructure/_git/AzureInfrastructure?path=/AvdCustomConfigFiles/script.ps1"
+            "value": "https://raw.githubusercontent.com/LexiSteve/AzureInfrastructure/main/script.ps1"
         },
         "VirtualMachineIndex": {
             "value": 0
