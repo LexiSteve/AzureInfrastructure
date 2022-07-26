@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "Location": {
+            "value": "uksouth"
+        },
+        "NamePrefix": {
+            "value": "shp-avd"
+        },
+        "NumberOfVms": {
+            "value": 1
+        },
+        "ScriptUri": {
+            "value": "https://carbenefitsolutions.visualstudio.com/AzureInfrastructure/_git/AzureInfrastructure?path=/AvdCustomConfigFiles/script.ps1"
+        },
+        "VirtualMachineIndex": {
+            "value": 0
+        }
+    }
+} 
